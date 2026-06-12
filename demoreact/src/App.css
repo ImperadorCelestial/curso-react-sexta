@@ -1,0 +1,13 @@
+.cont-app
+{
+    background-color: #6633996e;
+    min-height: 100vh;
+}
+
+.imagens-gerais
+{
+    width: 5%;
+    border-radius: 15px;
+    box-shadow: 0 0 10px rebeccapurple;
+    margin: 20px;
+}
